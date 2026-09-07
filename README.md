@@ -18,4 +18,5 @@ A menu-driven Movie Ticket Booking System developed in C++.
 - SOLID Principles
 
 Refer to the PDF for the complete project requirements and specifications.
-main/System Design Project.pdf
+[System Design Report](System%20Design%20Report.pdf)
+
